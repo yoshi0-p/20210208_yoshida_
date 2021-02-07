@@ -1,0 +1,46 @@
+/*service */
+.service-area {
+  text-align: center;
+}
+.services {
+  width: 90%;
+  display: inline-block;
+}
+.service {
+  width: 40%;
+  padding-left: 1%;
+  padding-right: 1%;
+  display: inline-block;
+}
+.service img {
+  width: 100%;
+}
+h3 {
+  margin-top: 50px;
+  font-size: 30px;
+}
+.service h4 {
+  font-size: 20px;
+  line-height: 0%;
+  text-align: left;
+}
+
+.service p {
+  line-height: 100%;
+  text-align: left;
+}
+
+.more {
+  margin-top: 50px;
+  margin-bottom: 150px;
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  line-height: 40px;
+  background-color: #cd0224;
+  display: inline-block;
+}
+.more a {
+  color: white;
+  text-decoration: none;
+}
