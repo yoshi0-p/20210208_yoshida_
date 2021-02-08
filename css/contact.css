@@ -78,8 +78,10 @@ textarea{
 /*content*/
 
 
+/*footer*/
 footer {
   height: 50px;
+  
   width: 100%;
   background-color: black;
 }
@@ -91,6 +93,7 @@ footer {
   color: white;
   margin-left: 20%;
   margin-right: 20%;
+  line-height: 50px;
 }
 
 .footer-nav ul {

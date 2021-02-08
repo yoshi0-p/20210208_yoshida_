@@ -1,11 +1,13 @@
+
 header {
   height: 76px;
-  width: 100%;
   background-color: white;
   position: fixed;
+  width:100%;
 }
 
 header img {
+ 
   height: 24px;
   margin: 26px;
 }
@@ -71,6 +73,7 @@ h2 {
 .sprit-message p {
   font-size: 16px;
   line-height: 25px;
+  margin-top:30px;
 }
 
 /*service */
@@ -85,6 +88,7 @@ h2 {
   width: 40%;
   padding-left: 1%;
   padding-right: 1%;
+  padding-top:2%;
   display: inline-block;
 }
 .service img {
@@ -96,7 +100,7 @@ h3 {
 }
 .service h4 {
   font-size: 20px;
-  line-height: 0%;
+  line-height: 130%;
   text-align: left;
 }
 
@@ -137,13 +141,15 @@ h3 {
 }
 .news-title p {
   font-size: 30px;
-  line-height: 60px;
+  line-height:60 px;
+
 }
 .news-title a {
   margin-top: 40px;
+
   width: 200x;
   height: 30px;
-  padding: 10px;
+  padding:10px;
   color: white;
   text-decoration: none;
   background-color: #cd0224;
@@ -159,10 +165,12 @@ h3 {
 }
 .date {
   padding-left: 20px;
+  line-height:50px;
 }
 .pick {
   font-weight: bold;
   padding-left: 10px;
+ line-height:50px;
 }
 
 /*blog*/
@@ -170,6 +178,7 @@ h3 {
   text-align: center;
 }
 .blogs {
+  margin-top:50px;
   width: 100%;
   display: flex;
 }
@@ -230,12 +239,13 @@ h3 {
   text-align: center;
 }
 .contact p {
-  line-height: 0%;
+  line-height: 110%;
 }
 
 /*footer*/
 footer {
   height: 50px;
+  
   width: 100%;
   background-color: black;
 }
@@ -247,6 +257,7 @@ footer {
   color: white;
   margin-left: 20%;
   margin-right: 20%;
+  line-height: 50px;
 }
 
 .footer-nav ul {
